@@ -3,4 +3,8 @@
   (lib (name "BLM18PG330SN1D")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_BLM18PG330SN1D/KiCADv6/2023-11-03_16-33-49.kicad_sym")(options "")(descr ""))
   (lib (name "LM25011MY")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_lm25011my/KiCADv6/2023-11-03_16-43-46.kicad_sym")(options "")(descr ""))
   (lib (name "LMR10510XMFE")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_LMR10510XMFE-NOPB/KiCADv6/2023-11-03_17-05-12.kicad_sym")(options "")(descr ""))
+  (lib (name "PMEG3050EP")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_PMEG3050EP-115/KiCADv6/2023-11-09_14-56-33.kicad_sym")(options "")(descr ""))
+  (lib (name "STTH4R02U")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_STTH4R02U/KiCADv6/2023-11-09_15-06-08.kicad_sym")(options "")(descr ""))
+  (lib (name "LAN9252/ML")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_LAN9252-ML/KiCADv6/2023-11-09_15-14-00.kicad_sym")(options "")(descr ""))
+  (lib (name "M24C16")(type "KiCad")(uri "C:/Users/dovlati/Documents/FI-EtherCAT/KiCAD/libraries/ul_M24C16-WMN6P/KiCADv6/2023-11-10_16-54-29.kicad_sym")(options "")(descr ""))
 )
