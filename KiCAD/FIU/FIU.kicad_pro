@@ -334,6 +334,10 @@
     [
       "8393f79e-dd47-4473-bd22-1e5b8a2cee79",
       "Power"
+    ],
+    [
+      "ab58c391-bcd9-432f-9bef-41f3a1ac1487",
+      "fiu_board"
     ]
   ],
   "text_variables": {}

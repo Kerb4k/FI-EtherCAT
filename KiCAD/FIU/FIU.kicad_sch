@@ -1450,7 +1450,6 @@
     )
   )
 
-
   (junction (at 222.25 190.5) (diameter 0) (color 0 0 0 0)
     (uuid 03983a27-1ab9-4462-83a7-a051c15f7dc8)
   )
@@ -3048,6 +3047,23 @@
     (instances
       (project "FIU"
         (path "/be6e6856-a046-4a03-bd27-192402d12712" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 119.38 97.79) (size 29.21 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ab58c391-bcd9-432f-9bef-41f3a1ac1487)
+    (property "Sheetname" "fiu_board" (at 119.38 97.0784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "fiu_board.kicad_sch" (at 119.38 128.8546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FIU"
+        (path "/be6e6856-a046-4a03-bd27-192402d12712" (page "4"))
       )
     )
   )
