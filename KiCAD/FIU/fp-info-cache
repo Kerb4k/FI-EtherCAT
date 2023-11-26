@@ -1,4 +1,25 @@
-21449839553114298
+21567145676404281
+Abracon 12Mhz 18pF
+CRYSTAL_ABM8G_ABR
+
+ABM8G-12.000MHZ-18-D2Y-T 
+0
+4
+4
+Abracon 12Mhz 18pF
+CRYSTAL_ABM8G_ABR-L
+
+ABM8G-12.000MHZ-18-D2Y-T 
+0
+4
+4
+Abracon 12Mhz 18pF
+CRYSTAL_ABM8G_ABR-M
+
+ABM8G-12.000MHZ-18-D2Y-T 
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -318,6 +339,27 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
+0
+2
+2
+Bourns 2.2uH
+IND_SRN2512_BRN
+
+SRN2512-2R2M 
+0
+2
+2
+Bourns 2.2uH
+IND_SRN2512_BRN-L
+
+SRN2512-2R2M 
+0
+2
+2
+Bourns 2.2uH
+IND_SRN2512_BRN-M
+
+SRN2512-2R2M 
 0
 2
 2
@@ -51344,6 +51386,34 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DGQ0010A-IPC_A
+DGQ0010A-IPC_A
+
+lm25011my 
+0
+11
+11
+DGQ0010A-IPC_A
+DGQ0010A-IPC_B
+
+lm25011my 
+0
+11
+11
+DGQ0010A-IPC_A
+DGQ0010A-IPC_C
+
+lm25011my 
+0
+11
+11
+DGQ0010A-IPC_A
+DGQ0010A-MFG
+
+lm25011my 
+0
+11
+11
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -53290,6 +53360,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ECS 25Mhz 18pF
+ECX-32_SMDXTAL_ECS
+
+ECS-250-18-33-JGN-TR 
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -54305,6 +54382,27 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GRM155R71H104KE14J
+CAP_GRM155R71H104KE14J_MUR
+
+GRM155R71H104KE14J 
+0
+2
+2
+GRM155R71H104KE14J
+CAP_GRM155R71H104KE14J_MUR-L
+
+GRM155R71H104KE14J 
+0
+2
+2
+GRM155R71H104KE14J
+CAP_GRM155R71H104KE14J_MUR-M
+
+GRM155R71H104KE14J 
+0
+2
+2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -54417,6 +54515,27 @@ heatsink
 0
 2
 1
+IND_BLM18_0603_MUR'
+IND_BLM18_0603_MUR
+
+BLM18PG330SN1D 
+0
+2
+2
+IND_BLM18_0603_MUR'
+IND_BLM18_0603_MUR-L
+
+BLM18PG330SN1D 
+0
+2
+2
+IND_BLM18_0603_MUR'
+IND_BLM18_0603_MUR-M
+
+BLM18PG330SN1D 
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -60381,6 +60500,27 @@ Yellow 5381 Series LED
 0
 2
 2
+MF05A
+MF05A
+
+LMR10510XMFE/NOPB 
+0
+5
+5
+MF05A
+MF05A-L
+
+LMR10510XMFE/NOPB 
+0
+5
+5
+MF05A
+MF05A-M
+
+LMR10510XMFE/NOPB 
+0
+5
+5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -62950,6 +63090,111 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Murata 1uF
+CAP_GRT188R61H105KE13D_MUR
+
+GRT188R61H105KE13D 
+0
+2
+2
+Murata 1uF
+CAP_GRT188R61H105KE13D_MUR-L
+
+GRT188R61H105KE13D 
+0
+2
+2
+Murata 1uF
+CAP_GRT188R61H105KE13D_MUR-M
+
+GRT188R61H105KE13D 
+0
+2
+2
+Murata 4.7uf
+CAP_GRM21_2p15X1p4X1p4_MUR
+
+GRM21BR61H475KE51L 
+0
+2
+2
+Murata 4.7uf
+CAP_GRM21_2p15X1p4X1p4_MUR-L
+
+GRM21BR61H475KE51L 
+0
+2
+2
+Murata 4.7uf
+CAP_GRM21_2p15X1p4X1p4_MUR-M
+
+GRM21BR61H475KE51L 
+0
+2
+2
+Murata 15pF
+G-033_MUR
+
+GRM0335C1H150JA01D 
+0
+2
+2
+Murata 15pF
+G-033_MUR-L
+
+GRM0335C1H150JA01D 
+0
+2
+2
+Murata 15pF
+G-033_MUR-M
+
+GRM0335C1H150JA01D 
+0
+2
+2
+Murata 22nF
+G-155_MUR
+
+GRM155R71H223KA12D 
+0
+2
+2
+Murata 22nF
+G-155_MUR-L
+
+GRM155R71H223KA12D 
+0
+2
+2
+Murata 22nF
+G-155_MUR-M
+
+GRM155R71H223KA12D 
+0
+2
+2
+Murata 220pF
+G-188_MUR
+
+GCM1885C1H221JA16D 
+0
+2
+2
+Murata 220pF
+G-188_MUR-L
+
+GCM1885C1H221JA16D 
+0
+2
+2
+Murata 220pF
+G-188_MUR-M
+
+GCM1885C1H221JA16D 
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -78518,6 +78763,111 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Panasonic 4.75kOhm
+RC0402N_PAN
+
+ERJ-2RKF4751X 
+0
+2
+2
+Panasonic 4.75kOhm
+RC0402N_PAN-L
+
+ERJ-2RKF4751X 
+0
+2
+2
+Panasonic 4.75kOhm
+RC0402N_PAN-M
+
+ERJ-2RKF4751X 
+0
+2
+2
+Panasonic 10kOhm
+RC0402N_PAN
+
+ERJ-2GEJ103X 
+0
+2
+2
+Panasonic 10kOhm
+RC0402N_PAN-L
+
+ERJ-2GEJ103X 
+0
+2
+2
+Panasonic 10kOhm
+RC0402N_PAN-M
+
+ERJ-2GEJ103X 
+0
+2
+2
+Panasonic 45k3Ohm
+RC0402N_PAN
+
+ERJ-2RKF4532X 
+0
+2
+2
+Panasonic 45k3Ohm
+RC0402N_PAN-L
+
+ERJ-2RKF4532X 
+0
+2
+2
+Panasonic 45k3Ohm
+RC0402N_PAN-M
+
+ERJ-2RKF4532X 
+0
+2
+2
+Panasonic 49.9Ohm
+RC0402N_PAN
+
+ERJ-2RKF49R9X 
+0
+2
+2
+Panasonic 49.9Ohm
+RC0402N_PAN-L
+
+ERJ-2RKF49R9X 
+0
+2
+2
+Panasonic 49.9Ohm
+RC0402N_PAN-M
+
+ERJ-2RKF49R9X 
+0
+2
+2
+Panasonic 470Ohm
+RC0603N_PAN
+
+ERA-3AEB471V 
+0
+2
+2
+Panasonic 470Ohm
+RC0603N_PAN-L
+
+ERA-3AEB471V 
+0
+2
+2
+Panasonic 470Ohm
+RC0603N_PAN-M
+
+ERA-3AEB471V 
+0
+2
+2
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -79442,6 +79792,27 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+QFN64_ML_MCH
+QFN64_ML_MCH
+
+LAN9252/ML 
+0
+65
+65
+QFN64_ML_MCH
+QFN64_ML_MCH-L
+
+LAN9252/ML 
+0
+65
+65
+QFN64_ML_MCH
+QFN64_ML_MCH-M
+
+LAN9252/ML 
+0
+65
+65
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -82431,6 +82802,90 @@ rotary encoder
 0
 7
 6
+SDO_CFP5_SOD128_NEX
+SDO_CFP5_SOD128_NEX
+
+PMEG3050EP_115 
+0
+2
+2
+SDO_CFP5_SOD128_NEX
+SDO_CFP5_SOD128_NEX-L
+
+PMEG3050EP_115 
+0
+2
+2
+SDO_CFP5_SOD128_NEX
+SDO_CFP5_SOD128_NEX-M
+
+PMEG3050EP_115 
+0
+2
+2
+SMB_STM
+SMB_STM
+
+STTH4R02U 
+0
+2
+2
+SMB_STM
+SMB_STM-L
+
+STTH4R02U 
+0
+2
+2
+SMB_STM
+SMB_STM-M
+
+STTH4R02U 
+0
+2
+2
+SO8N_4X5X1P27_STM
+SO8N_4X5X1P27_STM
+
+M24C16-WMN6P 
+0
+8
+8
+SO8N_4X5X1P27_STM
+SO8N_4X5X1P27_STM-L
+
+M24C16-WMN6P 
+0
+8
+8
+SO8N_4X5X1P27_STM
+SO8N_4X5X1P27_STM-M
+
+M24C16-WMN6P 
+0
+8
+8
+Samsung 2.2uF
+CAP_CL31_SAM
+
+CL31B225KBHNNNE 
+0
+2
+2
+Samsung 2.2uF
+CAP_CL31_SAM-L
+
+CL31B225KBHNNNE 
+0
+2
+2
+Samsung 2.2uF
+CAP_CL31_SAM-M
+
+CL31B225KBHNNNE 
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -83985,6 +84440,27 @@ Logo WEEE
 0
 0
 0
+Taiyo 10uF
+CAP_UMK316BBJ106ML-T_TAY
+
+UMK316BBJ106ML-T 
+0
+2
+2
+Taiyo 10uF
+CAP_UMK316BBJ106ML-T_TAY-L
+
+UMK316BBJ106ML-T 
+0
+2
+2
+Taiyo 10uF
+CAP_UMK316BBJ106ML-T_TAY-M
+
+UMK316BBJ106ML-T 
+0
+2
+2
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -89575,6 +90051,13 @@ Varistor
 RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
 Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
 varistor
+0
+2
+2
+Vishay 10uH
+IND_IDC-2512_VIS
+
+IDC2512ER100M 
 0
 2
 2
